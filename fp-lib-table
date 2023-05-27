@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCAD-Custom-Lib")(type "KiCad")(uri "E:/Projects/KiCAD-UserLib/Footprints/KiCAD-Custom-Lib.pretty")(options "")(descr ""))
+  (lib (name "Symbol")(type "KiCad")(uri "${KIPRJMOD}/Symbol.pretty")(options "")(descr ""))
+)
