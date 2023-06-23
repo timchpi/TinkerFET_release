@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "PowerE_Custom")(type "KiCad")(uri "E:/Projects/KiCAD-UserLib/Symbols/PowerE_Custom.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "PowerE_Custom")(type "KiCad")(uri "${KIPRJMOD}/PowerE_Custom.kicad_sym")(options "")(descr ""))
 )
